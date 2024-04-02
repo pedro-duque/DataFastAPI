@@ -1,4 +1,4 @@
-# Azure Data Lake Storage API
+# FastAPI to interacts with an Azure Data Lake
 
 This Python FastAPI project provides endpoints to interact with Azure Data Lake Storage (ADLS) for uploading, downloading, and listing files stored in ADLS containers.
 
